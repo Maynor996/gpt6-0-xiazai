@@ -1,9 +1,10 @@
-# GPT6.0 下载：正确用法与风险提示
+# GPT6.0下载正确姿势与常见风险提示
 
 中文说明页关键词：**gpt6.0下载**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-0-xiazai/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：讲清GPT6.0下载风险，给出网页/API正确获取姿势。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
